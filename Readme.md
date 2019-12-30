@@ -1,1 +1,1 @@
-Pass thingy
+Pass thing
